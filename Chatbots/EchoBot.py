@@ -1,0 +1,7 @@
+print("Welcome, I'm a chatbot. I repeat everything you say.")
+input1 = input("Tell me your name: ")
+print("Hello, " + input1 + ". What do you want to talk about?")
+input2 = input("Pick a subject: ")
+print("I don't know much about " + input2 + ". Tell me something else?")
+input3 = input("Pick another subject: ")
+print("I dont know enough about " + input3 + " either... my creator needs to teach me more :(")
